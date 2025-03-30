@@ -1,4 +1,4 @@
-### Key Features
+## Key Features
 1. **Thread-safe Singleton**: Uses double-checked locking pattern
 
 2. **Multiple Log Levels**: DEBUG, INFO, WARNING, ERROR, FATAL
